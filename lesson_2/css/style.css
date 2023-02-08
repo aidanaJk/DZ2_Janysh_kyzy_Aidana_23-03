@@ -1,0 +1,24 @@
+#one {
+    color: red;
+}
+.one {
+    color: purple;
+}
+div {
+    /*color: green;*/
+    color: #750b0b !important;
+    /*color: rgb(117,11,11);*/
+    /*color: rgba(117,11,11,.1);*/
+}
+/* 0123456789abcdef */
+/* 0 - 255 */
+div {
+    width: 500px;
+    text-align: justify;
+    line-height: 24px;
+
+}
+
+
+
+
